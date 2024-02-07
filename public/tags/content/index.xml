@@ -1,8 +1,0 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>内容 - 标签 - DoIt</title>
-        <link>https://lengf233.github.io/tags/content/</link>
-        <description>内容 - 标签 - DoIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2083282360@qq.com (lengf233)</managingEditor>
-            <webMaster>2083282360@qq.com (lengf233)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://lengf233.github.io/tags/content/" rel="self" type="application/rss+xml" /></channel>
-</rss>
