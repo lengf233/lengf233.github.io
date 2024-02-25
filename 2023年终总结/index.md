@@ -24,7 +24,7 @@
 大学生信息安全竞赛
 
 
-![WechatIMG13](/img/WechatIMG13.jpg)
+![WechatIMG13](/img/2023年终总结/WechatIMG13.jpg)
 
 ![WechatIMG13](/img/2023年终总结/WechatIMG14.jpg)
 
