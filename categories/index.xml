@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - 分类 - DoIt</title>
+        <title>Categories - 分类 - lengf233&#39;s blog</title>
         <link>https://lengf233.github.io/categories/</link>
-        <description>Categories - 分类 - DoIt</description>
+        <description>Categories - 分类 - lengf233&#39;s blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2083282360@qq.com (lengf233)</managingEditor>
             <webMaster>2083282360@qq.com (lengf233)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 18 Feb 2024 21:53:18 &#43;0800</lastBuildDate><atom:link href="https://lengf233.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>life</title>
@@ -10,6 +10,13 @@
     <pubDate>Sun, 18 Feb 2024 21:53:18 &#43;0800</pubDate><author>
         <name>lengf233</name>
     </author><guid>https://lengf233.github.io/categories/life/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>JavaSecurity</title>
+    <link>https://lengf233.github.io/categories/javasecurity/</link>
+    <pubDate>Tue, 21 Mar 2023 13:58:09 &#43;0800</pubDate><author>
+        <name>lengf233</name>
+    </author><guid>https://lengf233.github.io/categories/javasecurity/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>文档</title>
